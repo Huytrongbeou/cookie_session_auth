@@ -26,9 +26,10 @@ Content-Type: application/json
   "password": "yourpassword"
 }
 ```
-<img width="975" height="981" alt="image" src="https://github.com/user-attachments/assets/033e986b-5ee5-4f4e-ab7e-7c947e7f6c1a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/894a7004-ed8b-44c2-a543-b40ccb7abf91" />
+
 ### Check in database
-<img width="1775" height="1043" alt="image" src="https://github.com/user-attachments/assets/323a0d5b-74b0-4e2c-a0d9-6d6e66e612c5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e169723-571b-4c20-a842-22cfffe51206" />
 
 ### Login
 ```
@@ -40,24 +41,29 @@ Content-Type: application/json
   "password": "yourpassword"
 }
 ```
-<img width="986" height="963" alt="image" src="https://github.com/user-attachments/assets/5a7e8118-7648-4211-a38f-543d9ec64eb2" />
-### Check session in database
-<img width="1773" height="1046" alt="image" src="https://github.com/user-attachments/assets/4fe88cf1-129b-445a-802c-f4934708c02e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb8fbe71-21fa-4c5d-9a6e-c79109b10666" />
+###Cookie
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f39c0137-360b-4493-9285-528c456c40f1" />
 
+### Check session in database
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/68fe5854-780f-4d5c-859f-310068e8f358" />
 
 ### View Profile (Protected)
 ```
 GET /auth/profile
 ```
 *Note: Must be logged in first*
-<img width="981" height="919" alt="image" src="https://github.com/user-attachments/assets/973fa2ce-de84-4e24-b5d1-2ed9267a3572" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5d5c3ab-d7af-4452-9aa6-4cd2a6f5e506" />
 
 
 ### Logout
 ```
 GET /auth/logout
 ```
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3776d22-deba-4368-bb5f-ec2bdc849eff" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ad7b5bc-b132-4b62-9270-5214770593a5" />
+### Check cookie and session after logout
+<img width="1920" height="1077" alt="image" src="https://github.com/user-attachments/assets/b3ae639f-3167-4c3e-93f9-6f83e72dc782" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f96668d-7c62-4266-8bfe-24891ef22a66" />
 
 ## How It Works
 1. **Register** creates a new user with hashed password
